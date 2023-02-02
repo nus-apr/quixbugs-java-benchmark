@@ -63,8 +63,6 @@ for project in projects:
     file = join(root, "java_programs", file_name)
     tests = (
         join(root, "java_testcases", "junit", test_file_name)
-        # if not is_graph_based
-        # else join(root, "java_testcases", test_file_name)
     )
     os.mkdir(name)
     os.chdir(name)
@@ -78,6 +76,13 @@ for project in projects:
             join(root, java_folder, "WeightedEdge.java"), join(".", java_folder, "")
         )
 
+
+    f = open(tests,'r')
+    
+    neg_tests = f.read().count('Test')
+    
+    f.close()
+
     shutil.copy(tests, "./java_testcases/junit/")
 
     result.append(
@@ -86,16 +91,16 @@ for project in projects:
             "subject": "java_programs",
             "bug_id": name,
             "source_file": file_name,
-            "source_directory": java_folder,
-            "class_directory": java_folder,
-            "test_directory": "java_testcases",
-            "test_class_directory": "java_testcases",
+            "source_directory": "src/main/java",
+            "class_directory": "target/classes",
+            "test_directory": "src/test/java",
+            "test_class_directory": "target/test-classes",
             "line_numbers": [],
             "dependencies": [],
             "passing_test": [],
             "failing_test": [],
             "test_timeout": 5,
-            "count_neg": 0,
+            "count_neg": neg_tests,
             "count_pos": 0,
         }
     )
