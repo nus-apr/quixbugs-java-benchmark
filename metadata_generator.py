@@ -83,6 +83,7 @@ for project in projects:
     
     f.close()
 
+    shutil.copy(join(root,"java_testcases","junit","QuixFixOracleHelper.java"),"./java_testcases/junit/")
     shutil.copy(tests, "./java_testcases/junit/")
 
     result.append(
