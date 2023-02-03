@@ -61,9 +61,7 @@ for project in projects:
     test_file_name = name.upper() + "_TEST" + ".java"
     root = "/home/mmirchev/QuixBugs"
     file = join(root, "java_programs", file_name)
-    tests = (
-        join(root, "java_testcases", "junit", test_file_name)
-    )
+    tests = join(root, "java_testcases", "junit", test_file_name)
     os.mkdir(name)
     os.chdir(name)
     java_folder = "java_programs"
@@ -76,14 +74,16 @@ for project in projects:
             join(root, java_folder, "WeightedEdge.java"), join(".", java_folder, "")
         )
 
+    f = open(tests, "r")
 
-    f = open(tests,'r')
-    
-    neg_tests = f.read().count('Test')
-    
+    neg_tests = f.read().count("Test")
+
     f.close()
 
-    shutil.copy(join(root,"java_testcases","junit","QuixFixOracleHelper.java"),"./java_testcases/junit/")
+    shutil.copy(
+        join(root, "java_testcases", "junit", "QuixFixOracleHelper.java"),
+        "./java_testcases/junit/",
+    )
     shutil.copy(tests, "./java_testcases/junit/")
 
     result.append(
