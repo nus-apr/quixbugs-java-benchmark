@@ -100,6 +100,7 @@ for project in projects:
             "dependencies": [],
             "passing_test": [],
             "failing_test": [],
+            "language": "java",
             "test_timeout": 5,
             "count_neg": neg_tests,
             "count_pos": 0,
