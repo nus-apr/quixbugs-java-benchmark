@@ -10,12 +10,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 9,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/bitcount/src",
+            "entrypoint": {
+                "file": "src/main/java/BITCOUNT.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 2,
@@ -28,12 +35,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 6,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/breadth_first_search/src",
+            "entrypoint": {
+                "file": "src/main/java/BREADTH_FIRST_SEARCH.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 3,
@@ -46,12 +60,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 6,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/bucketsort/src",
+            "entrypoint": {
+                "file": "src/main/java/BUCKETSORT.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 4,
@@ -64,12 +85,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 6,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/depth_first_search/src",
+            "entrypoint": {
+                "file": "src/main/java/DEPTH_FIRST_SEARCH.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 5,
@@ -82,12 +110,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/detect_cycle/src",
+            "entrypoint": {
+                "file": "src/main/java/DETECT_CYCLE.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 6,
@@ -100,12 +135,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/find_first_in_sorted/src",
+            "entrypoint": {
+                "file": "src/main/java/FIND_FIRST_IN_SORTED.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 7,
@@ -118,12 +160,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/find_in_sorted/src",
+            "entrypoint": {
+                "file": "src/main/java/FIND_IN_SORTED.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 8,
@@ -136,12 +185,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/flatten/src",
+            "entrypoint": {
+                "file": "src/main/java/FLATTEN.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 9,
@@ -154,12 +210,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/gcd/src",
+            "entrypoint": {
+                "file": "src/main/java/GCD.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 10,
@@ -172,12 +235,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 11,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/get_factors/src",
+            "entrypoint": {
+                "file": "src/main/java/GET_FACTORS.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 11,
@@ -190,12 +260,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/hanoi/src",
+            "entrypoint": {
+                "file": "src/main/java/HANOI.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 12,
@@ -208,12 +285,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 3,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/is_valid_parenthesization/src",
+            "entrypoint": {
+                "file": "src/main/java/IS_VALID_PARENTHESIZATION.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 13,
@@ -226,12 +310,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/kheapsort/src",
+            "entrypoint": {
+                "file": "src/main/java/KHEAPSORT.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 14,
@@ -244,12 +335,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 10,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/knapsack/src",
+            "entrypoint": {
+                "file": "src/main/java/KNAPSACK.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 15,
@@ -262,12 +360,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/kth/src",
+            "entrypoint": {
+                "file": "src/main/java/KTH.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 16,
@@ -280,12 +385,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 9,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/lcs_length/src",
+            "entrypoint": {
+                "file": "src/main/java/LCS_LENGTH.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 17,
@@ -298,12 +410,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/levenshtein/src",
+            "entrypoint": {
+                "file": "src/main/java/LEVENSHTEIN.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 18,
@@ -316,12 +435,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/lis/src",
+            "entrypoint": {
+                "file": "src/main/java/LIS.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 19,
@@ -334,12 +460,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 10,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/longest_common_subsequence/src",
+            "entrypoint": {
+                "file": "src/main/java/LONGEST_COMMON_SUBSEQUENCE.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 20,
@@ -352,12 +485,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 6,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/max_sublist_sum/src",
+            "entrypoint": {
+                "file": "src/main/java/MAX_SUBLIST_SUM.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 21,
@@ -370,12 +510,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 13,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/mergesort/src",
+            "entrypoint": {
+                "file": "src/main/java/MERGESORT.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 22,
@@ -388,12 +535,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/minimum_spanning_tree/src",
+            "entrypoint": {
+                "file": "src/main/java/MINIMUM_SPANNING_TREE.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 23,
@@ -406,12 +560,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/next_palindrome/src",
+            "entrypoint": {
+                "file": "src/main/java/NEXT_PALINDROME.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 24,
@@ -424,12 +585,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 8,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/next_permutation/src",
+            "entrypoint": {
+                "file": "src/main/java/NEXT_PERMUTATION.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 25,
@@ -442,12 +610,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/pascal/src",
+            "entrypoint": {
+                "file": "src/main/java/PASCAL.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 26,
@@ -460,12 +635,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 9,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/possible_change/src",
+            "entrypoint": {
+                "file": "src/main/java/POSSIBLE_CHANGE.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 27,
@@ -478,12 +660,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/powerset/src",
+            "entrypoint": {
+                "file": "src/main/java/POWERSET.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 28,
@@ -496,12 +685,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 13,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/quicksort/src",
+            "entrypoint": {
+                "file": "src/main/java/QUICKSORT.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 29,
@@ -514,12 +710,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/reverse_linked_list/src",
+            "entrypoint": {
+                "file": "src/main/java/REVERSE_LINKED_LIST.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 30,
@@ -532,12 +735,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 6,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/rpn_eval/src",
+            "entrypoint": {
+                "file": "src/main/java/RPN_EVAL.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 31,
@@ -550,12 +760,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/shortest_path_length/src",
+            "entrypoint": {
+                "file": "src/main/java/SHORTEST_PATH_LENGTH.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 32,
@@ -568,12 +785,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/shortest_path_lengths/src",
+            "entrypoint": {
+                "file": "src/main/java/SHORTEST_PATH_LENGTHS.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 33,
@@ -586,12 +810,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/shortest_paths/src",
+            "entrypoint": {
+                "file": "src/main/java/SHORTEST_PATHS.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 34,
@@ -604,12 +835,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/shunting_yard/src",
+            "entrypoint": {
+                "file": "src/main/java/SHUNTING_YARD.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 35,
@@ -622,12 +860,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 6,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/sieve/src",
+            "entrypoint": {
+                "file": "src/main/java/SIEVE.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 36,
@@ -640,12 +885,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/sqrt/src",
+            "entrypoint": {
+                "file": "src/main/java/SQRT.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 37,
@@ -658,12 +910,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 12,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/subsequences/src",
+            "entrypoint": {
+                "file": "src/main/java/SUBSEQUENCES.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 38,
@@ -676,12 +935,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 7,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/to_base/src",
+            "entrypoint": {
+                "file": "src/main/java/TO_BASE.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 39,
@@ -694,12 +960,19 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 4,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/topological_ordering/src",
+            "entrypoint": {
+                "file": "src/main/java/TOPOLOGICAL_ORDERING.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     },
     {
         "id": 40,
@@ -712,11 +985,18 @@
         "test_class_directory": "target/test-classes",
         "line_numbers": [],
         "dependencies": [],
-        "passing_test": [],
-        "failing_test": [],
+        "passing_test_identifiers": [],
+        "failing_test_identifiers": [],
         "test_timeout": 5,
         "language": "java",
         "count_neg": 5,
-        "count_pos": 0
+        "count_pos": 0,
+        "src": {
+            "root_abspath": "/experiment/java_programs/wrap/src",
+            "entrypoint": {
+                "file": "src/main/java/WRAP.java"
+            }
+        },
+        "output_dir_abspath": "/output"
     }
 ]
